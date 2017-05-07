@@ -1,6 +1,6 @@
 [LIGHT TABLE] (http://lighttable.com/) the next generation code editor<br />
 presents DarkSystemCD color scheme theme::<br /><br />
-![DarkSystemCD]http://orig01.deviantart.net/4e23/f/2016/190/9/c/bloodart__computer_software_by_bloodart_profile-da9ejhm.jpg)
+![DarkSystemCD](http://orig01.deviantart.net/4e23/f/2016/190/9/c/bloodart__computer_software_by_bloodart_profile-da9ejhm.jpg)
 
 **DarkSystemCD®**<br />
 used to identify, meet, work and publish<br />
