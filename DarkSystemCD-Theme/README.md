@@ -21,4 +21,4 @@ created for display my creations enabling it’s available world wide.<br /><br 
 
 ---
 
-[access theme information] (https://github.com/wds-connections/darksystemcd-lighttable-theme/blob/master/README.md)
+[access theme information] (https://github.com/wds-connections/darksystemcd-brackets-theme/blob/master/README.md)
